@@ -1,5 +1,5 @@
 # NiFi
-Follow the instructions from the documentation and .jpg for NiFi flows.
+This repo contains documentation and .jpg for NiFi flows.
 
 Repo includes following flows:
 1.	NiFi and IBM MQ	
